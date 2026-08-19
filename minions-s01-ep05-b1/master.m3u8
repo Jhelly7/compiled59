@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=2972070,RESOLUTION=1896x780
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled59@job-minions-s01-ep05-b1/minions-s01-ep05-b1/hls/index.m3u8
