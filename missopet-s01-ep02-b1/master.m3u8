@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3513598,RESOLUTION=1920x804
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled59@job-missopet-s01-ep02-b1/missopet-s01-ep02-b1/hls/index.m3u8
