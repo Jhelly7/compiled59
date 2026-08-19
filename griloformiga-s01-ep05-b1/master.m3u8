@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3181667,RESOLUTION=1920x1036
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled59@job-griloformiga-s01-ep05-b1/griloformiga-s01-ep05-b1/hls/index.m3u8
