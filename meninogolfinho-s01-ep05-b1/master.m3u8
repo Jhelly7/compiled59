@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3177390,RESOLUTION=1920x1002
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled59@job-meninogolfinho-s01-ep05-b1/meninogolfinho-s01-ep05-b1/hls/index.m3u8
